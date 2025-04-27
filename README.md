@@ -1,34 +1,34 @@
 # carevaluation  
-🚗 Car Evaluation - Classificação com Árvore de Decisão  
-  
-📚 Sobre o Projeto:  
+🚗 **Car Evaluation - Classificação com Árvore de Decisão\**
+\
+📚 Sobre o Projeto:\
 Este projeto utiliza Árvores de Decisão para classificar carros em diferentes níveis de aceitabilidade (inaceitável, aceitável, bom, muito bom) com base em atributos como preço, manutenção, número de portas, entre outros.
-O objetivo é prever corretamente a aceitabilidade de um carro a partir de seus atributos.
-  
-🔥 Tecnologias Usadas  
-Python  
-Pandas  
-Scikit-Learn  
-Matplotlib  
-Google Colab  
-
-🛠️ Como o projeto foi desenvolvido
-
-Carregamento dos dados
-Dataset utilizado: Car Evaluation Dataset
-
-Pré-processamento
+O objetivo é prever corretamente a aceitabilidade de um carro a partir de seus atributos.\
+\
+🔥 Tecnologias Usadas\
+Python\
+Pandas\
+Scikit-Learn\
+Matplotlib\
+Google Colab\
+\
+🛠️ Como o projeto foi desenvolvido\
+\
+Carregamento dos dados\
+Dataset utilizado: Car Evaluation Dataset\
+\
+Pré-processamento\
 Codificação dos atributos categóricos com LabelEncoder.
-
-Divisão de dados
+\
+Divisão de dados\
 Separação em treino (70%) e teste (30%) com train_test_split.
 
-Treinamento do modelo
-Modelo: DecisionTreeClassifier do sklearn.
-Visualização da árvore
-Utilização do plot_tree para ilustrar as decisões do modelo.
-
-Avaliação de desempenho
+Treinamento do modelo\
+Modelo: DecisionTreeClassifier do sklearn.\
+Visualização da árvore\
+Utilização do plot_tree para ilustrar as decisões do modelo.\
+\
+Avaliação de desempenho\
 Cálculo da acurácia do modelo no conjunto de teste.
 
 📊 Resultados
