@@ -5,12 +5,12 @@
 Este projeto utiliza Árvores de Decisão para classificar carros em diferentes níveis de aceitabilidade (inaceitável, aceitável, bom, muito bom) com base em atributos como preço, manutenção, número de portas, entre outros.
 O objetivo é prever corretamente a aceitabilidade de um carro a partir de seus atributos.
   
-🔥 Tecnologias Usadas
-Python
-Pandas
-Scikit-Learn
-Matplotlib
-Google Colab
+🔥 Tecnologias Usadas  
+Python  
+Pandas  
+Scikit-Learn  
+Matplotlib  
+Google Colab  
 
 🛠️ Como o projeto foi desenvolvido
 
