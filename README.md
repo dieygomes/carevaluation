@@ -51,14 +51,10 @@ Acesse o Google Colab e abra o notebook disponível no projeto.
 
 🧠 Próximos passos
 Testar diferentes profundidades de árvore (max_depth)
-
 Aplicar técnicas de poda para reduzir overfitting
-
 Comparar com outros algoritmos de classificação (ex: Random Forest)
 
 ✨ Contato
-Feito com dedicação por [Seu Nome]!
+Feito com dedicação por Dieiny Gomes!
 Se quiser saber mais: [Seu LinkedIn] | [Seu GitHub]
 
-🎯 Observação importante:
-Sempre que você for fazer seu próximo projeto, usa essa estrutura. Dá impressão de organização e profissionalismo na hora de apresentar seu portfólio.
